@@ -1,0 +1,9 @@
+git init para iniciar repositorio
+git config user.name y user.email para configurar usuario y email, con --global configura para todas las carpetas de la preocupaciones
+git add. para agregar archivos
+git commit -m "mensaje" para commitear archivos
+git clone link para clonar repositorio
+git branch nombre para crear una nueva rama
+git checkout nombre para cambiarme a la rama
+git push para subir cambios
+git pull para bajar cambios
