@@ -1,0 +1,12 @@
+git init: inicializa el repositorio local.
+git clone (url): clona un repositorio remoto en nuestra computadora.
+git add: agregar un archivo al repositorio local.
+git commit: guardar nuestros cambios, marcando un punto en la linea del tiempo de las versiones. Hay que agregarle un mensaje usando -m.
+git branch: para crear una rama aparte de la principal o main.
+git checkout nombre-rama: para posicionarnos en la otra rama que creamos aparte de la principal.
+cd .. : ir a la carpeta superior a la actual.
+mkdir: crear carpeta.
+touch archivo: crear archivo.
+ls: para listar los elementos de una carpeta.
+rm: para borrar archivos.
+Y no recuerdo más en este momento, saludos, buenas noches
