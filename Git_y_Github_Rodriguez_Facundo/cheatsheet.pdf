@@ -1,0 +1,21 @@
+Comandos de ingreso
+git config user.name facundo0800
+git config user.email facundorod09@gmail.com
+
+Subir archivos 
+git add .
+git commit -m /mensaje/
+
+Repositorios
+git init (crear repositorio local)
+git clone /link/ (clonar repositorio de la nube)
+git pull (conectar el repositorio nube con local)
+git push (subir actualización de repositorio)
+
+Ramas 
+git branch /nombre/ (Crear una rama)
+git checkout main (para volver a la rama main)
+
+Arreglar cagadas 
+git reset ~
+git restore
