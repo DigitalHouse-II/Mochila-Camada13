@@ -1,0 +1,17 @@
+git.init - crea un repositorio local
+git config user.name "nombreusario" - agrega nuestra identidad
+git config user.email "direccionmail" - agrega nuestro mail 
+git add . - agrega todos los archivos al repositorio
+git status - seguimiento del estado de los archivos
+git commit -m mensaje - comitea los cambios hechos en los archivos 
+git push origin master -envía los cambios al repositorio remoto
+git branch nombre - crea una rama llamada nombre
+git branch -d branch - elimina la rama llamada branch
+git branch -D - fuerza la elimminación de la rama especificada
+git checkout nombre rama - se mueve a la rama especificada
+git push origin branch - sube los cambios al repositorio remoto
+git pull origin branch - trae los cambios desde el repositorio remoto
+git log - muestra el historial de la actividad
+git remote - v - muestra repositorios remotos
+git clone ruta del archivo - clona un respoitorio remoto a nuestra máquina
+ 
