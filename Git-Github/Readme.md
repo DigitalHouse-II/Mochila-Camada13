@@ -1,1 +1,1 @@
-Mochila Introducción a la Informática
+Mochila Introducción a la Informática de Ignacio
