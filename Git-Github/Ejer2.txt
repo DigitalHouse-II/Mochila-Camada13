@@ -1,0 +1,4 @@
+Clonar un repositorio existente, $ git clone ssh://usuario@domain.com/repo.git
+R 1- Puedes clonar tu repositorio para crear una copia local en tu computadora y sincronizarla entre las dos ubicaciones.
+Crear un nuevo repositorio local, $ git init
+R 2- Es el comando que utilizamos para crear un repositorio local dentro de una carpeta especifica.
