@@ -1,0 +1,13 @@
+$ git add // Añadir los archivos  (Si se le pone un "." directamente agregará todos los archivos) 
+$ git status // Estatus y estado con respecto al repositorio del archivo
+	(En el caso de que algun archivo se modifique habrá que añadirlo de nuevo)
+$ git commit -m "Resumen de lo hecho" // Crea un commit 
+$ git checkout "código de commit" // Es para volver en el tiempo o cambiar de rama
+$ git checkout main // Volver hacia dónde estábamos antes
+$ git log --oneline // Ver los commit y sus códigos
+$ git clone (URL) // Clonará el repertorio remoto en la computadora 
+$ git pull origin main // Actualiza el repertorio local a partir del repertorio remoto
+$ git branch "nombre" // Crea rama
+$ git  merge "nombre" // Unifica ramas 
+$ git reset ~ // Borra commits hechos
+$ git revert  "Codigo de commit" // Deshace hasta el commit seleccionado
