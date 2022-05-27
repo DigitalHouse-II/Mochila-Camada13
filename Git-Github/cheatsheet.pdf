@@ -1,3 +1,0 @@
-comando para crear branch: git branch nombre_rama
-Para posicionarse en esa rama: git checkout nombre_rama
-Para subir cambios a la rama creada: git push origin nombre_rama
