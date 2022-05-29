@@ -1,0 +1,3 @@
+1) Primeros pasos con GitHub: el Sistema de Control de Versiones Git es un excelente Sistema de Control de Versiones que en otras palabras permite controlar los cambios a través del tiempo de cualquier tipo de programa que se encuentre en desarrollo.
+2) Github actualmente pertenece a la empresa Microsoft, y pertenece a la misma porque fue comprada por Microsoft
+3) Si, por ejemplo github desktop. 
