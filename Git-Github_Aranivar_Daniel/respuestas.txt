@@ -6,5 +6,5 @@ b ¿A quién pertenece actualmente Github y por qué?
 Microsoft,  El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares
 
 c ¿Hay otra forma que no sea la terminal para trabajar con Github?
-Desde la web.
+Desde la web, github desktop.
 
