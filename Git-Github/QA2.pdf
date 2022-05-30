@@ -1,0 +1,18 @@
+Crear una nueva carpeta o directoria
+$ mkdir CarpetaNueva
+Crear un nuevo archivo
+$ touch ArchivoNuevoNombre
+Eliminar un archivo
+$ rm NombreDeArchivoAEliminar
+Permite saber la carpeta en la que nos encontramos
+$ pwd
+Muestra los archivos contenidos en el directorio o carpeta que nos encontramos
+$ ls
+Permite movernos entre las carpetas
+$ cd NombreDeCarpeta
+Nos permite subir a la nube los cambios realizados
+$ git commit -m NombreDelCommit
+Nos permite añadir archivos y/o carpetas para ser commiteados
+$ git add
+Nos permite crear una linea de trabajo independiente de la original
+$ git branch NombreDeLineaNueva
