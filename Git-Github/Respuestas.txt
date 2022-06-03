@@ -1,0 +1,3 @@
+a- Junio Hamano y Linus Torvalds crearon el sistema de versión Git. 
+b- GitHub pertenece actualmente a Microsoft debido a que lo consideró como la plataforma de desarrollo de software líder en todo el mundo. 
+c- Sí, se puede utilizar mediante Plugins en ID y editores de texto como por ejemplo VSC, o aplicaciones externas como GitKraken y SmarthGit. 
