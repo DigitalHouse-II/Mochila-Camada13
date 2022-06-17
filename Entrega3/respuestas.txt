@@ -1,1 +1,19 @@
-testeando desde la maquina virtual
+1) ¿Por que un lenguaje de programacion solo funciona en unos sistemas operativos y otros no?
+
+R: Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre sistemas operativos.
+
+2)¿Qué tipo de  maquina virtual soporta virtualbox?
+
+R: Es una maquina virtual de tipo "sistema", virtualiza un sistema operativo entero y el mismo nunca se entera que es virtualizado
+(si le preguntamos, el cree que es el principal SO de nuestra maquina)
+
+3)¿Qué función cumple el hypervisor en la virtualización?
+
+R:El hipervisor actúa como la plataforma para máquinas virtuales. Proporciona la división necesaria entre el sistema operativo de la máquina virtual y el hardware de la máquina host. La máquina donde se hospeda puede compartir sus recursos, como la memoria RAM y la potencia de procesamiento, en múltiples cargas de trabajo.
+De esta manera, todos los hipervisores permiten ejecutar entornos de máquina virtual en una máquina host, pero a pesar de sus similitudes funcionan de forma diferente bajo dos grandes clasificaciones.
+
+4) ¿Si tengo más de una maquina virtual instalada y se rompe, afecta a las demás? ¿Por qué?
+
+R: No afecta a las demás, dado que cada maquina virtual es un sistema operativo a parte y no tienen ningún tipo de relación más alla de el
+programa que usemos para virtualizarlo.
