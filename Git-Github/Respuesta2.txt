@@ -1,0 +1,35 @@
+LOCAL
+    $ mkdir                             (crea una carpeta)
+    $ touch                             (crea un archivo)
+
+    $ rm                                (eminina un archivo o carpeta)
+    $ rmdir                             (eminina una carpeta)
+
+    $ mv                                (mueve o renombra)
+    $ cp                                (copia)
+
+    $ cd                                (vamos a carpeta)
+    $ ..                                (subimos de carpeta)
+    $ clear                             (limpia la pantalla)
+
+    $ ls                                (muestra los archivos)
+    $ pwd                               (muestra la direccion completa)
+    
+    $ git init                          (repositorio local)
+    $ git config user.name "enenene"    (configurar nombre)
+    $ git config user.email "sdfa@com"  (configurar email)
+    $ git remote add origin HTTP://...  (Sincronizar carpeta local con github)
+
+    $ git add                           (agrega archivos)
+    $ git commit -m "mensaje"           (comitea los archvos agregados)
+    $ git push origin <main>            (sube los archivos a github)
+    $ git clone HTTP://                 (bajar los archivos de github por primera vez O J O)
+    $ git pull origin <main>            (baja los archivos de github)
+    $ git status                        (muestra estado de repositorio)
+    $ git log                           (muestra los commit)
+
+    $ git branch                        (muestra las branch)
+    $ git branch <nueva>                (crea branch "nueva")
+    $ git branch -d                     (borra brach)
+    $ git checkout <nueva>              (entra a la brach "nueva")
+
