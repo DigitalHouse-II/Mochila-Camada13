@@ -1,0 +1,33 @@
+﻿Ejercitación 
+
+
+
+
+*  Investigar y contestar las siguientes preguntas. 
+* ¿Que es un usuario root en Linux? 
+El usuario root es aquel que tiene todos los permisos en el sistema operativo.
+
+* ¿Cuáles son los procesos típicos de Linux?
+Hay tres categorías principales de procesos en Linux y cada una tiene diferentes propósitos. Estos se pueden clasificar en tres conjuntos distintos: interactivos, automatizados (o por lotes) y demonios.
+
+
+   * ¿Cómo identificarlos?. 
+Si utilizamos el comando top podremos ver la actividad del procesador, es decir, muestra los procesos actuales en ejecución.
+
+   *  Investigar y establecer una contraseña para el usuario root.
+Utilizamos el comando sudo passwd root, al dar enter nos habilitará a escribir la contraseña.
+
+
+
+
+
+
+                Opcional:
+      * Escribir en la terminal el comando apt install cowsay.
+      *  Escribir en la terminal el comando cowsay “ Hola mundo “.        
+      * Escribir en la terminal el comando sudo apt install fortune
+      * Escribir en la terminal  fortune. 
+      * fortune | cowsay
+
+
+                Imágenes a continuación de cuando utilicé los comandos coway y fortune|coway
