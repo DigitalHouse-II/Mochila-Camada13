@@ -1,0 +1,5 @@
+1- Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo.
+2-Windows, Ubuntu, etc.
+3-Es un software que realiza una virtualizacion de hardware que permite utilizar, al mismo tiempo, diferentes sistemas operativos en una misma computadora.
+4-No, porque son independientes.
+
