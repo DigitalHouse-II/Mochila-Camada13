@@ -1,0 +1,8 @@
+1) El Lenguaje de programacion, son las instrucciones que le damos al software para que realice la tarea que deseamos.
+En esa linea, cada sistema operativo usa sus propias complilaciones basadas en la arquitectura del mismo, para poder entendernos y ejecutar nuestros pedidos.
+
+2)Del tipo de Sistema, ya qeu vamos a emular todo un sistema operativo.
+
+3)Su funcion es de asignar parte de la memoria, cpu y espacio del disco duro para el uso de los SO a instalar.
+
+4) No, cada SO es una maquina independiente, maneja los recursos de ella y no altera. Si, si la falla viene de del PC que está instalado el virtualizador, puede afectar a todas las maquinas virtuales.  
