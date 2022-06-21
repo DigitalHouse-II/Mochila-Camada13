@@ -1,0 +1,7 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+2. ¿Qué tipo de máquina virtual es VirtualBox? Es de código abierto.
+
+3. Si tengo más de una máquina virtual instalada y una se rompe, ¿esto afecta a las demás? ¿por qué? No afecta porque son máquinas independientes.
+
+
