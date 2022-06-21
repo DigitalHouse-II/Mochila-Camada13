@@ -1,0 +1,25 @@
+
+Por Que Un Lenguaje De Programacion Solo Puede Utilizarse En Algunos Sistemas Operativos Y En Otros No?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (segun corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. 
+
+
+
+Que Tipo De Maquina Virtual Es Virtualbox?
+
+Oracle VM VirtualBox (conocido generalmente como VirtualBox) es un software de virtualización para arquitecturas x86/amd64. Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualización. Por medio de esta aplicación es posible instalar sistemas operativos adicionales, conocidos como «sistemas invitados», dentro de otro sistema operativo «anfitrión», cada uno con su propio ambiente virtual. 
+MAQUINA VIRTUAL DE SISTEMA
+
+
+
+Si Tengo Mas De Una Maquina Virtual Instalada Y Una Se Rompe, Esto Afecta A Las Demas? Por Que?
+
+Las demas no se afectan, ya que estas funcionan de forma aislada.
+
+
+
+
+
+
+
