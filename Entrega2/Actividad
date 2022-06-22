@@ -1,0 +1,22 @@
+¿Qué es un usuario root en linux?
+	Es el usuario que tiene acceso administrativo al sistema, básicamente
+si un usuario no es root, no tiene acceso a todo el SO por temas de seguridad.
+
+¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+	Ubuntu si te permite establecer la contraseña en la instalación.
+
+¿Cuáles son los procesos típicos de Linux?
+	Los más comúnes en Linux son; Procesos Normales, Daemon y Zombie.
+
+Los estados también pueden ser: Running (En ejecución), Sleeping (Estan esperando
+a ser utilizados), Stopped (Estan esperando a que se finalice una operación) y
+Zombie (Procesos que han termiado, pero estan preseentes en la tabla de procesos.
+
+¿Cómo se identifican?
+	Los procesos normales, son generalmente utilizados en una terminal, y
+se ejecutan a nombre de un usuario.
+	Los procesos Daemon corren a el nombre de un usuario y no tienen salida
+directa por una terminal, osea, que se ejecutan en 2do plano. Generalmente,
+se le conocen como servicios.
+	El proceso zombie es el que ha completado su ejecucion, pero aun tiene
+una entrada de la tabla de procesos.
