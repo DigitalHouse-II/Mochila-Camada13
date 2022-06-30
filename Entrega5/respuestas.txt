@@ -1,0 +1,39 @@
+IE: 190.135.20.24
+
+Tor: 109.70.100.27
+
+Opera:77.111.246.40 
+
+
+
+Speedtest:
+
+IE: 352mbps descarga/subida 31.68 mbps
+
+Tor: 1:98 mbps descarga /subida 1.94
+
+Opera: 1:33 mbps descarga/12mbps subida
+
+
+Nota: IE es sin VPN/Opera con VPN/Tor conectado y normal
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, dado que como se habló en clase pasan por distintos lados/rebotan y usan distintos servidores
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No, pero al usarla si. El video de youtube está inhabilitado para mi país pero no al que la VPN me redirecciona.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si: Tor: 109.70.100.27
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si son todas diferentes, y creo que es porque rebotan en varios servidores hasta llegar a destino, entonces baja la velocidad.
+
+¿Que significa el valor del ping?
+El tiempo que demora en llegar mis paquetes y al mismo tiempo el tiempo que demoran en "morir" (TTL)
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+
