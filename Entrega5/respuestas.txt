@@ -35,5 +35,5 @@ Si son todas diferentes, y creo que es porque rebotan en varios servidores hasta
 El tiempo que demora en llegar mis paquetes y al mismo tiempo el tiempo que demoran en "morir" (TTL)
 
 El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
-
+Por lo que menciono arriba, rebotan en varios servidores y distintos, entonces dependiendo donde esten ubicados
 
