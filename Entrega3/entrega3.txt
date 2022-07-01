@@ -1,0 +1,26 @@
+1- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos 
+sistemas opeativos y en otros no?
+
+Porque fueron creados para que funcionaran en las distribuciones específicas de cada sistema. 
+También depende el tipo de lenguaje de programación se utilice, si es compilado o interpretado.
+
+Por ejemplo, en Windows hay versiones de 32 y 64 bits, depende también de la arquitectura del
+procesador. Las versiones de linux también tienen ciertas diferencias entre ellas.
+
+2- ¿Qué tipo de máquina virtual soporta virtualbox?
+
+El tipo 2 que depende de un sistema operativo que es el que le otorga recursos para que se 
+ejecuten las máquinas virtuales que se montan en este software.
+
+3- ¿Qué función cumple el hypervisor en la virtualización?
+
+Es conocido como Monitor de máquinas virtuales, es una capa de virtualización de software
+que permite crear y ejecutar varias máquinas virtuales dentro de un unico servidor, así como
+diferentes sistemas operativos.
+
+4-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? 
+¿Por qué?
+
+No, no afecta a las demás porque es un sistema independiente, con recursos de hardware 
+entregados por el equipo host a ese guest.
+
