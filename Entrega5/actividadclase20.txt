@@ -1,0 +1,40 @@
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+
+77.111.246.40
+
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+186.50.241.44
+
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma. 
+91.203.5.165
+
+País 	RU
+
+Latitud 	51.4964
+Longitud 	-0.1224
+ISP 	Jump Networks Ltd
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, porque toma ubicaciones diferentes
+
+
+ Sin utilizar la VPN puedes ver el siguiente video? NO
+Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué? Si pude verlo porque ya no encuentra mi ubicación
+
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida (22.87mbps), bajada (20.36mbps) y el ping (39), anotar estos valores.
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida (10.10mbps) , bajada (0.92 mbps) y el ping (320), anotando estos valores. 
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida (7.39 mbps), bajada (8.96 mbps) y el ping (450), anotando estos valores.
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto? si. Por la cantidad de pasos que debe realizar para traer el resultado
+
+
+¿Que significa el valor del ping?
+Para medir la latencia o lag (retardo) se usa el ping, y se expresa en milisegundos (ms). Cuanto más bajo sea el ping, mejor. Lo más deseable es que el ping esté por debajo de 100 ms, y a partir de 65 ms la conexión es muy aceptable y no deberías tener problemas para mantener una vídeo llamada fluida. Para los gamers el ping óptimo sería de 20 ms.
+La latencia es el tiempo en que tardan en comunicarse dos puntos remotos: es decir el tiempo que tarda nuestro dispositivo en enviar una solicitud al servidor y éste devuelve un paquete de datos, un tiempo de reacción. Es decir, la latencia será mayor cuanto más tarde en cargar una página web.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué? si varía, porque cuantos más puntos "toca" demora más o menos.
