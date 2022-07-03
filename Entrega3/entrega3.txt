@@ -1,0 +1,39 @@
+1-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+
+2-¿Qué tipo de máquina virtual soporta virtualBox? 
+
+3-¿Qué función cumple el hypervisor en la virtualización?
+
+4-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+1- "Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, 
+este lenguaje ensamblador depende de 2 cosas: de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición 
+de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21, y en Linux es la 10, 
+lo cual hace los ejecutables finales incompatibles entre sistemas operativos."
+
+(Fuente: https://es.quora.com/Por-qu%C3%A9-un-lenguaje-de-programaci%C3%B3n-s%C3%B3lo-puede-utilizarse-en-algunos-sistemas-operativos-y-en-otros-no)
+
+
+2- "VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. 
+Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una máquina virtual 
+con cualquier otro sistema operativo para utilizarlo dentro del que estés usando."
+
+(Fuente: https://www.xataka.com/basics/virtualbox-que-como-usarlo-para-crear-maquina-virtual-windows-u-otro-sistema-operativo#:~:text=VirtualBox%20es%20una%20aplicaci%C3%B3n%20que,dentro%20del%20que%20est%C3%A9s%20usando.)
+
+
+3- "Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. 
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, 
+como la memoria y el procesamiento."
+
+(Fuente: https://www.vmware.com/latam/topics/glossary/content/hypervisor.html#:~:text=Un%20hipervisor%2C%20conocido%20tambi%C3%A9n%20como,la%20memoria%20y%20el%20procesamiento.)
+
+
+4- Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. 
+De ese modo, si una de ellas falla, no afectará al funcionamiento del resto. Esta solución es habitual en los servicios de alojamiento web y almacenamiento 
+en la nube en las que se optimizan los costes de los servidores ejecutando una máquina virtual para alojar los archivos de usuarios distintos. 
+De ese modo, en lugar de necesitar un servidor para cada uno de los usuarios, todos comparten el mismo hardware dividido en varias máquinas virtuales aisladas entre sí.
+
+(Fuente: https://computerhoy.com/noticias/software/que-es-maquina-virtual-como-funciona-que-sirve-46606#:~:text=Las%20m%C3%A1quinas%20virtuales%20de%20procesos%20se%20ejecutan%20en%20un%20mismo,afectar%C3%A1%20al%20funcionamiento%20del%20resto.)
