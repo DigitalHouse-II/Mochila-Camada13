@@ -1,0 +1,58 @@
+VPN-TOR-IP
+Ip pública tor 31.24.148.37
+Ip pública sin vpn 179.25.84.201
+En opera 77.111.246.40 geolocalizacion proximo a hutchinson y wichita
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, no son las mismas porque al tener la vpn activada establecemos una conexión protegida al utilizar redes públicas. La VPN cifran  tráfico en internet y disfrazan la identidad en línea.
+
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No puedo ver el video sin utilizar la vpn. Usando la vpn si logro verlo.
+
+
+
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si. 
+
+
+Opera velocidad con vpn: bajada-0.78mbps subida-12.88mbps pin-306ms
+
+
+Opera velocidad sin vpn: bajada-74.42mbps subida-21.68mbps pin-5ms
+
+
+Tor:  bajada-10.20mbps subida-0.79mbps pin-400ms
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si, todas son diferentes. Existen 7 motivos por los cuales las velocidades navegando en VPN son reducidas: 
+
+
+-La Ubicación del Servidor
+-Limitaciones del Ancho de Banda del Servidor
+-El tipo de Encriptado
+-Interferencias de los Cortafuegos
+-La Configuración de Red
+-Algoritmos de Enrutamiento VPN
+-La Propia Velocidad de Conexión.
+
+
+Cuanto más lejos esté ubicado geográficamente del servidor VPN, más probable será que la velocidad VPN sea un poco más lenta.
+Dependiendo de qué tan fuerte sea el encriptado del protocolo VPN que usa, puede hacer que la velocidad VPN disminuya un poco. 
+
+
+
+
+
+
+¿Qué significa el valor del ping?
+Es lo que tarda en llegar desde el servidor a nuestro equipo. Mientras mayor sea, peor. El ping se mide en milisegundos.
+
+
+
+
+El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+Si varía, por los mismos motivos mencionados en la pregunta anterior.
