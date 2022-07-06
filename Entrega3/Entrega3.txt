@@ -1,0 +1,4 @@
+1- Depende de la arquitectura del SO.
+2-Linux, Mac OSx. os/2 warp, genode, Windows y Solaris
+3-Es donde es creada la maquina virtual
+4- No afecta son independietes como si fueran varios equipos
