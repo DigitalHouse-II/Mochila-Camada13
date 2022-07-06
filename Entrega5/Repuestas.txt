@@ -1,0 +1,35 @@
+Preguntas
+1.Las ip públicas no son las mismas, esto sucede porque Tor funciona por medio de
+una red de computadoras voluntarias que oculta tu dirección IP (número que identifica tu 
+máquina en la red) y asigna otra de cualquier parte del mundo.
+
+2.Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin usar la VPN no puedo ver el video porque el usuario restrigió el video en mi país.
+Al probarlo en el navegador de Opera pude ver el video debido al servicio de VPN ya que me geolocaliza en otro país, en mi caso
+Estados Unidos.
+
+3.No, ya que TOR brinda anonimato.
+
+4.En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+DESCARGA Mbps
+50.
+ SUBIDA Mbps
+40.
+
+5.En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+DOWNLOAD Mbps
+1.94
+ UPLOAD Mbps
+12.76
+
+6.Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+Download Mbps
+1.89
+Upload Mbps
+0.43
+
+7.Las velocidades de los tests varían justamente por cómo se da la comunicación entre nuestra computadora y el servidor destino (ver siguiente respuesta para más detalles).
+
+8.El valor del ping representa la latencia, el tiempo de reaccion en nuestra conexión (que tan rápido recibe una respuesta a un pedido nuestro equipo).
+
+9.El valor del ping varía entre las diferentes opciones por el tipo de conectividad que tenemos. Sin vpn tenemos mejor tiempo de respuesta porque el request y el response se comunican sin intermediarios, digamos. Con VPN(al estar triangulando nuestra dirección IP, tardamos más en mandar una request  y en recibir una respuesta). En Tor el ping es aún mayor por cómo funciona el browser(yendo de red en red para esconder la ip tiene mucho mayor recorrido).
