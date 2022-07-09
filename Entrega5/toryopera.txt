@@ -1,0 +1,25 @@
+Ip publica 186.52.170.139 en opera sin vpn
+
+77.111.246.40 con van activado Estados Unidos.
+
+En Tor 51.15.59.15 anónima la localización
+
+1. No son las mismas, porque TOR es anónima por lo que no muestra localización
+2. Sin utilizar vpn no me permite ver el video. 
+ Habilitando la vpn me permite ver el partido, porque me localiza en donde puedo verlo.
+
+3. No, es anonima
+
+4. Velocidad: en opera con vpn descarga 1mbps subida 11.76mbps ping 233
+En opera sin vpn 25.11 mbps 14.52mbps ping 181
+Tor 7.97 mbps y 7.21 mbps
+
+5. Son diferentes, tor es mas lenta
+
+6. Velocidad de envio de paquetes
+
+7. Si varia porque es mas lento.
+
+
+
+
