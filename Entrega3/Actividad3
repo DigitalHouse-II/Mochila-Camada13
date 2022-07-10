@@ -1,0 +1,4 @@
+1_ Todo depende del sistema operativo, ya que dependiendo de el soportamiento del mismo se pueden utilizar ciertos lenguages.
+2_Soporta varias como: Ubuntu, Windows, Mac, FreeBSD, RHEL, Solaris, Fedora.
+3_Un hipervisor funciona como el monitor de las máquinas virtuales, permite que un pc soporte a varias máquinas virtuales.
+4_ Las máquinas virtuales se ejecutan en el mismo servidor para ejecutar  varias instancias en la misma aplicacion de forma separada, entonces no afecta a las demas.

@@ -1,0 +1,3 @@
+1) El creador del sistema Git fue Linus Torvalds, el creador de Linux.
+2) Actualmente le pertenece a Microsoft, ya que fue compardo por los mismos el 16 de julio de 2018.
+3) Si, se puede usar la interfaz grafica que es más facil e interactiva.
