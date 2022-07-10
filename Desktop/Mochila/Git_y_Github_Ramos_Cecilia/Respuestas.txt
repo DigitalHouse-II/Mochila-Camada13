@@ -1,0 +1,12 @@
+1- Git es un software de control de versiones diseñado por Linus 
+Torvald. Su propósito es llevar registro de los cambios en archivos de 
+computadora incluyendo coordinar el trabajo que varias personas realizan 
+sobre archivos compartidos en un repositorio de código.
+
+2-Actualmente GitHub pertenece a Microsoft.El 4 de junio de 2018, 
+Microsoft compró GitHub haciendose con esta compra de una de las 
+comunidades de desarrolladores más importantes de todo el mundo. Eso 
+parece ser lo que más importa por encima de la tecnología de GitHub o 
+del talento que encierra esta empresa.
+
+3-Si, con GitHub desktop
