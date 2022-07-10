@@ -1,7 +1,11 @@
-    ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?  debido a que deben tener arquitectura y sistemas operativos similares, de lo contrario no funcionará correctamente o no funcionará. Esto es un tema vinculado al código fuente y el compilador. 
+  ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+ debido a que deben tener arquitectura y sistemas operativos similares, de lo contrario no funcionará correctamente o no funcionará. Esto es un tema vinculado al código fuente y el compilador. 
 
-    ¿Qué tipo de máquina virtual soporta virtualBox?. De sistemas
+  ¿Qué tipo de máquina virtual soporta virtualBox?.
+ De sistemas
 
-    ¿Qué función cumple el hypervisor en la virtualización? Asignar recursos físicos como ram, CPU, disco.
+ ¿Qué función cumple el hypervisor en la virtualización?
+ Asignar recursos físicos como ram, CPU, disco.
 
-    Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? puede enlentecer al resto ya que puede estar utilizando recursos de forma inadecuada 
+ Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
+puede enlentecer al resto ya que puede estar utilizando recursos de forma inadecuada 
