@@ -1,0 +1,22 @@
+ip publica sin vpn: 179.24.206.121 (opera)
+ip publica con vpn: 77.111.246.40 (opera)
+Geolocalización con vpn: Mexico (opera)
+
+ip publica con vpn: 37.123.163.58 (Tor)
+Geolocalización con vpn: Alemania (Tor)
+
+1-No son las mimsas ya que la Vpn se encarga de cambiarla para poder tener mas efectividad en su trabajo.
+2-No se puede per sin Vpn ya que este video no esta disponible en nuestro pais, en cambio si en otros por eso con Vpn si podemos.
+3-Tor no me dejo ver mi geolocalización al principio, entonces tuve que entrar en google maps donde si me mostra
+
+Velociodad de subida sin Vpn: 0.70 mbps (opera)
+Velocidad de descarga sin Vpn: 4.35 mbps (opera)
+Velocidad de subida con Vpn: 0.46 mbps (opera)
+Velocidad de descarga con Vpn: 2.3 mbps (opera)
+
+Velocidad de subida con Vpn: 0.34 mbps (Tor)
+Velocidad de descarga con Vpn: 1.7 mbps (Tor)
+
+1-Creo que son diferentes ya que al cambiar de Ip todo es mucho mas lento.
+2-El ping es una unidad de medida que sirve para medir la latencia.
+3-Si varia, ya que la velocidad es diferente.
