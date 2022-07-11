@@ -1,0 +1,90 @@
+¿Que es un usuario Root?
+
+Root es la cuenta de superusuario en Unix y Linux. Es una cuenta de usuario para fines administrativos y, por lo general, tiene los derechos de acceso más altos en el sistema. Por lo general, la cuenta de usuario root se llama root. Sin embargo, en Unix y Linux, cualquier cuenta con ID de usuario 0 es una cuenta raíz, independientemente del nombre.
+
+¿Porque no se puede establecer la contraseña durante la instalación?
+Porque el usuario root viene deshabilitado en la instalacion
+
+¿Cuales son los procesos típicos de Linux?
+se puede ver los procesos en tiempo real con el comando TOP, de esa forma se podran ver los procesos típicos en cada caso o distribución.
+
+
+¿Como se Identifican?
+Se procesan por el PID «numero de identificacion de proceso»
+A cada proceso se le garantiza un PID único, que siempre es un número entero no negativo.
+
+Como establecer contraseña a usuario ROOT:
+
+Ingresamos en la terminal y ejecutamos el comando
+
+sudo passwd root
+
+..-........................................---..
+Cowsay
+..........................
+
+fede@fede-vm:~$ sudo apt install cowsay
+[sudo] password for fede: 
+Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias       
+Leyendo la información de estado... Hecho
+cowsay ya está en su versión más reciente (3.03+dfsg1-15).
+0 actualizados, 0 nuevos se instalarán, 0 para eliminar y 0 no actualizados.
+fede@fede-vm:~$ cowsay "hola mundo"
+ ____________
+< hola mundo >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+fede@fede-vm:~$ sudo apt install fortune
+Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias       
+Leyendo la información de estado... Hecho
+Nota, seleccionando «fortune-mod» en lugar de «fortune»
+Se instalarán los siguientes paquetes adicionales:
+  fortunes-min librecode0
+Paquetes sugeridos:
+  fortunes
+Se instalarán los siguientes paquetes NUEVOS:
+  fortune-mod fortunes-min librecode0
+0 actualizados, 3 nuevos se instalarán, 0 para eliminar y 0 no actualizados.
+Se necesita descargar 600 kB de archivos.
+Se utilizarán 1.673 kB de espacio de disco adicional después de esta operación.
+¿Desea continuar? [S/n] s
+Des:1 http://uy.archive.ubuntu.com/ubuntu xenial/main i386 librecode0 i386 3.6-22 [499 kB]
+Des:2 http://uy.archive.ubuntu.com/ubuntu xenial/universe i386 fortune-mod i386 1:1.99.1-7 [39,6 kB]
+Des:3 http://uy.archive.ubuntu.com/ubuntu xenial/universe i386 fortunes-min all 1:1.99.1-7 [61,8 kB]
+Descargados 600 kB en 0s (1.204 kB/s)  
+Seleccionando el paquete librecode0:i386 previamente no seleccionado.
+(Leyendo la base de datos ... 156065 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../librecode0_3.6-22_i386.deb ...
+Desempaquetando librecode0:i386 (3.6-22) ...
+Seleccionando el paquete fortune-mod previamente no seleccionado.
+Preparando para desempaquetar .../fortune-mod_1%3a1.99.1-7_i386.deb ...
+Desempaquetando fortune-mod (1:1.99.1-7) ...
+Seleccionando el paquete fortunes-min previamente no seleccionado.
+Preparando para desempaquetar .../fortunes-min_1%3a1.99.1-7_all.deb ...
+Desempaquetando fortunes-min (1:1.99.1-7) ...
+Procesando disparadores para libc-bin (2.23-0ubuntu11.3) ...
+Procesando disparadores para man-db (2.7.5-1) ...
+Configurando librecode0:i386 (3.6-22) ...
+Configurando fortune-mod (1:1.99.1-7) ...
+Configurando fortunes-min (1:1.99.1-7) ...
+Procesando disparadores para libc-bin (2.23-0ubuntu11.3) ...
+fede@fede-vm:~$ fortune
+Beware of a dark-haired man with a loud tie.
+fede@fede-vm:~$ fortune/cowsay
+bash: fortune/cowsay: No existe el archivo o el directorio
+fede@fede-vm:~$ fortune | cowsay
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
