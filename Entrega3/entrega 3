@@ -1,0 +1,8 @@
+Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y otros no?
+Porque depende de la arquitectura que tenga el sistema operativo y el interprete o compilador que utilice.
+Que tipo de maquina virtual soporta Virtual Box?
+Es del tipo de sistemas.
+Que funcion cumple el hypervisor en la virtualizacion?
+Es el lugar en donde la maquina virtual es creada. Este es una capa de software que se isntala sobre la parte fisica de la computadora y su funcion es asignarle recursos fisicos a la MV (RAM, cpu, disco, etc)
+Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? Por que?
+No, no afecta a las demas ya que son independientes y cada una tiene sus propios recursos asignados.
