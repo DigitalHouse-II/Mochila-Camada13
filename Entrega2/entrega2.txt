@@ -1,0 +1,19 @@
+¿Que es un usuario root en Linux?
+
+el usuario root en linux es el usuario que posee el rol de administrador dentro>
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+
+Ubuntu de forma predeterminada no permite asignar una contraseña durante la ins>
+sera la contraseña madre. Esto permite que no tengamos problemas al iniciar el >
+
+¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?
+
+El PID es un número entero que identifica unívocamente a cada proceso en una ta>
+Esta tabla de procesos mantiene una entrada por cada uno de los procesos que es>
+Esa tabla es, precisamente, la que se consulta con comandos como ps o pstree.
+
+Uno de los datos almacenados, es el pid, o process-id, utilizado para facilitar>
+que no responden, o para que el sistema operativo pueda comunicar procesos usan>
+
+
