@@ -1,0 +1,7 @@
+1- La IP pública es una dirección única y nunca se puede repetir. La asignan los proveedores de Internet (ISP) y se la conoce también como dirección IP dinámica, puesto que cambia cada vez que reiniciamos el router o cada cierto período de tiempo. 
+Esto quiere decir que también existe una dirección IP pública fija o estática, pero si se necesita por algún motivo, es necesario contactar con el ISP para solicitar que nos la configuren manualmente.
+
+2- El video esta restringido en mi area de localizacion, al activar la VPN puedo ocultar mi dirección IP 
+y hacer creer a los servicios de streaming y aplicaciones que me encuantro en otro país
+
+3- No,Tor es un software libre que permite ocultar tu dirección IP

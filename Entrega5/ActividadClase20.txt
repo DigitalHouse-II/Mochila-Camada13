@@ -1,0 +1,19 @@
+Al utilizar uyna VPN podriamos decir que enviamos nuestro tráfico a un servidor intermedio 
+que será quien oculte nuestra IP pública y se encargue de enviarnos los datos. 
+No obstante, eso tiene consecuencias porque perdemos algo de velocidad y también aumenta 
+un poco la latencia de la conexión. Una de las razones por las que la conexión VPN es lenta 
+puede ser porque estamos conectados a un servidor que está demasiado lejos. 
+Aunque ese servidor se encuentre en mi propio país, puede que ese servidor VPN esté saturado. 
+Esto se produce cuando muchas personas se conectan a un mismo servidor y el ancho de banda 
+se reparte entre todos ellos.
+
+2- Cuando hablamos de ping hacemos referencia al tiempo exacto que tarda en transmitirse 
+un paquete dentro de la red.
+Básicamente lo que tarda en llegar desde el servidor a nuestro equipo.Mientras mayor sea,peor.
+
+3- Tener una menor o mayor latencia va a depender de diferentes factores, como la conexión 
+contratada, el router, si nos conectamos por cable o Wi-Fi,etc.
+En el caso de las distintas opciones trabajadas hoy, el Ping varia debido a la VPN, este se ve afectado
+principalmente por la distancia que debe recorrer el tráfico de Internet, específicamente la ruta que 
+debe tomar para llegar allí. Una VPN aumenta nuestro ping porque agrega pasos adicionales al tráfico 
+de Internet que llega a su destino, haciéndolo más largo y complicado.
